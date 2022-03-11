@@ -11,7 +11,7 @@ Group members' replit profiles: [Justin](https://replit.com/@JustinLi38)
 
 **Sponsor**: Wendy’s 
 
-**Project Owner**: Manager Irfan Nasim and the Wendy’s restaurant chain have wanted a better personal online connection with their local customers, and by investing in their restaurant they are able to have a more personalized feedback than their official Wendy’s application.
+**Project Owner**: Manager Irfan Nasim and the Wendy’s restaurant chain as well as Ryan Freedman at Chick-fil-A have wanted a better personal online connection with their local customers, and by investing in their restaurant they are able to have a more personalized feedback than their official Wendy’s application.
 
 
 We will have weekly meetings showing the development of the website to Irfan and have regular input with the Wendy’s management to see what features they want in the website.
