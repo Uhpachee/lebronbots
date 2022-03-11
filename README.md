@@ -8,7 +8,9 @@ Group members: [Justin](https://github.com/jli615), [Rohan](https://github.com/R
 Group members' replit profiles: [Justin](https://replit.com/@JustinLi38) 
 
 **Title**: QuickFood
+
 **Sponsor**: Wendy’s 
+
 **Project Owner**: Manager Irfan Nasim and the Wendy’s restaurant chain have wanted a better personal online connection with their local customers, and by investing in their restaurant they are able to have a more personalized feedback than their official Wendy’s application.
 
 Plan:
