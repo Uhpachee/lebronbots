@@ -23,6 +23,15 @@ We’ll create a very simple site for ordering food, making it extremely easy fo
 ![plan](https://thefridgeagency.com/wp-content/uploads/sites/3/2018/06/June_FoodDeliveryProsCons_1000px-750x300.jpg)
 
 
+**Projected Features**
+- Interactive subpages for each restaurant in the 4s Ranch area
+- Interactive map that shows location of each restaurant and displays the working hours of each restaurant
+- Menus for each restaurant
+- Information about the managers and workers at each restaurant
+- Food-ordering option
+- Yelp-like reviews database that has search function
+
+
 ## Week 1
 [Wire Frame and Technicals](https://docs.google.com/document/d/1XlId0IyD8Gumsi1YGHI7pKbQUzD0qgsNyxq4Hsggdw4/edit?usp=sharing)
 
