@@ -1,14 +1,13 @@
 # Welcome
-This is the project of the one and only p2-slackbots and our project is called Cooler Math Games!
+This is the project of the trimester 3 lebronbots
 
 [Our Jekyll page:](shekark642.github.io/slackbots-p2)
 
-Main idea: Our website is the go-to place for gamers. All kinds of stuff relating to gaming, we got it! We implement information pages for gamers (or non-gamers) to look at to learn, and we also have real games for users to play. Come to this website for real time information, games you can play directly on the website, and redirection to real games. Have fun!
-The games will be pulled in from an API, as well as personally customed by us.
+Main idea: Our website is a online food ordering service that allows users to order food from local 4s ranch restaurants.
 
-Group members: [Justin](https://github.com/jli615), [Rohan](https://github.com/RohanKoshy), [Shekar](https://github.com/shekark642), [Abhijay](https://github.com/Dubshott), [Kian](https://github.com/Uhpachee)
+Group members: [Justin](https://github.com/jli615), [Rohan](https://github.com/RohanKoshy), [Ryan](https://github.com/ryanmgds), [Kian](https://github.com/Uhpachee)
 
-Group members' replit profiles: [Justin](https://replit.com/@JustinLi38) [Shekar](https://replit.com/@shekark642) 
+Group members' replit profiles: [Justin](https://replit.com/@JustinLi38) 
 
 ## Week 5
 
