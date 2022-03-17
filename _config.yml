@@ -3,3 +3,6 @@ description: "This GitHub project is Cooler Math Games, a cooler version of the 
 email: "sea7wa@gmail.com"
 webserver: "https://lebronbots.github.io"
 markdown: GFM
+relative_links:
+  enabled: true
+  collections: true

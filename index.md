@@ -1,3 +1,6 @@
+[Week Reviews](reviews/reviews.md)
+[Team Assignments](team/team.md)
+
 # Welcome
 This is the project of the trimester 3 lebronbots
 
@@ -32,17 +35,3 @@ We’ll create a very simple site for ordering food, making it extremely easy fo
 - Yelp-like reviews database that has search function
 
 
-## Week 0
-[Wire Frame and Technicals](https://docs.google.com/document/d/1XlId0IyD8Gumsi1YGHI7pKbQUzD0qgsNyxq4Hsggdw4/edit?usp=sharing)
-
-People | Role | Progress |
--------------  | -------------- | -------------- |
-Justin   | Scrum Master / Deployment Manager |   |
-Kian   | Design Manager |  |
-Rohan   | Technical Officer |  |
-Ryan   | Github Admin |  |
-
-
-## Week 1
-Tech Talk Review Ticket (Rohan/Kian) - https://github.com/Uhpachee/lebronbots/issues/3
-Tech Talk Review Ticket (Ryan/Justin) - https://github.com/Uhpachee/lebronbots/issues/5
