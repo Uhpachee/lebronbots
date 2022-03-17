@@ -1,4 +1,4 @@
-#####Navigation Bar
+##### Navigation Bar
 [Week Reviews](reviews/reviews.md)
 
 [Team Assignments](team/team.md)
