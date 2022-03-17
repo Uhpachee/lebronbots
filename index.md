@@ -1,5 +1,8 @@
+#####Navigation Bar
 [Week Reviews](reviews/reviews.md)
+
 [Team Assignments](team/team.md)
+
 
 # Welcome
 This is the project of the trimester 3 lebronbots

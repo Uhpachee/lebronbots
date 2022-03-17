@@ -1,4 +1,4 @@
-###Team Reviews
+#Team Reviews
 
 ## Week 1
 Tech Talk Review Ticket (Rohan/Kian) - https://github.com/Uhpachee/lebronbots/issues/3
