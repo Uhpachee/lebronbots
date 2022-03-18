@@ -28,6 +28,7 @@ We’ll create a very simple site for ordering food, making it extremely easy fo
 
 ![plan](https://thefridgeagency.com/wp-content/uploads/sites/3/2018/06/June_FoodDeliveryProsCons_1000px-750x300.jpg)
 ![plan](https://www.gloriafood.com/wp-content/uploads/2015/04/online_menu_mobile_2.png)
+![plan]
 
 
 **Projected Features**
