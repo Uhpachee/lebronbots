@@ -27,7 +27,7 @@ We will have weekly meetings showing the development of the website to Irfan and
 
 Plan:
 We’ll create a very simple site for ordering food, making it extremely easy for people to order their food. It’ll be a lot better than DoorDash since it’ll only have the priority restaurants that are the most popular. Aside from Wendy’s we’ll have a few other fast food restaurants because those are usually the most priority and the most visited.
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/plan.png?raw=true)
+![plab](https://github.com/[username]/[reponame]/blob/[branch]/plan.png)
 
 ![plan](https://thefridgeagency.com/wp-content/uploads/sites/3/2018/06/June_FoodDeliveryProsCons_1000px-750x300.jpg)
 ![plan](https://www.gloriafood.com/wp-content/uploads/2015/04/online_menu_mobile_2.png)
