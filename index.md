@@ -13,6 +13,8 @@ Group members: [Justin](https://github.com/jli615), [Rohan](https://github.com/R
 
 Group members' replit profiles: [Justin](https://replit.com/@JustinLi38) 
 
+Scrum Board: [Feature Progress](https://github.com/Uhpachee/lebronbots/projects/1)
+
 **Title**: QuickFood
 
 **Sponsor**: Wendy’s 
