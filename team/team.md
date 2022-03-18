@@ -1,3 +1,5 @@
+{% capture navbar %}{% include navigation.html %}{% endcapture %}
+{{ navbar | markdownify }}
 # Team Assignments
 People | Role | Progress |
 -------------  | -------------- | -------------- |
