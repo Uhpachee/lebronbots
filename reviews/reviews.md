@@ -1,7 +1,6 @@
 #Team Reviews
 
 ## Rohan Machine Learning Notes
-Machine Learning Notes
 
 - Machine learning is the idea that through inputting data and/or giving feedback to the computer, the artificial intelligence can become more accurate
 - K nearest algorithm: Algorithm, where, based on the data points near the selected point, the computer will make a judgement.
@@ -12,7 +11,7 @@ Machine Learning Notes
 - reinforcement learning: manual feedback given back to the computer when experimentally judging an object, in which the computer will learn for future reference.
 
 
-## Rohan Machine Learning Notes
+## Rohan Neural Network Notes
 
 - How does our brain recognize several different numbers with different patterns if they are not comprehended by a computer by pixels
 - The problem is having computers have the same level of pattern recognition our neurons have
