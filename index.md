@@ -3,6 +3,12 @@
 
 [Team Assignments](team/team.md)
 
+## Justin's DynamoDB Notes
+# [AWS DynamoDB Tutorial for Beginners](notes1)
+# [Introduction to SQL](notes2)
+# [How do NoSQL databases work?](notes3)
+# [SQL vs NoSQL Explained](notes4)
+
 
 # Welcome
 This is the project of the trimester 3 lebronbots
