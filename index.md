@@ -3,6 +3,8 @@
 
 [Team Assignments](team/team.md)
 
+[Comment Section](comment/comment.md)
+
 ## Justin's DynamoDB Notes
 # [AWS DynamoDB Tutorial for Beginners](notes1)
 # [Introduction to SQL](notes2)
