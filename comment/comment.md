@@ -1,4 +1,3 @@
-# Comments from  Students
 <div id="HCB_comment_box"><a href="http://www.htmlcommentbox.com">Comment Box</a> is loading comments...</div>
 <script type="text/javascript" id="hcb">
     /*<!--*/ if(!window.hcb_user)
