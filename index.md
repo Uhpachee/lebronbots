@@ -11,6 +11,11 @@
 # [How do NoSQL databases work?](notes3)
 # [SQL vs NoSQL Explained](notes4)
 
+N@M
+cid:A3A163D4-4A5E-41FB-BF8D-267814CB672C![image](https://user-images.githubusercontent.com/72889620/171667968-4e8092a8-e957-4b94-b733-42aa6aefda80.png)
+cid:A3A163D4-4A5E-41FB-BF8D-267814CB672C![image](https://user-images.githubusercontent.com/72889620/171668038-6d4b7405-9cf6-4cd0-802d-f13d99023581.png)
+
+
 
 # Welcome
 This is the project of the trimester 3 lebronbots
